@@ -3,6 +3,9 @@
 Killer7 themed face cards using **DeckSkins** mod
 
 ## Info  
-- Currently only has **spade face cards** made.  
+- Currently only has **spades and clubs face cards** made.  
 
-![killer7spades](https://github.com/user-attachments/assets/59a082bf-7bf2-4328-a3bb-5813fe0dab49)
+![spades](https://github.com/user-attachments/assets/d2ffadaf-84be-4136-9442-9bcd25a849fa)
+![clubs](https://github.com/user-attachments/assets/85770e69-344a-428a-a3c0-7c9860d923a4)
+
+
